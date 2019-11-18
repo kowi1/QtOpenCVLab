@@ -9,6 +9,8 @@ OpenCV is an image processing platform built to efficiently run common image pro
 QtOpenCVLAb combines the power of OpenCV's image processing library with the GUI sophistication of Qt to create an appealing end-user-application for car detection in a an image.
 
 
+OpenCV 2.4.13.6 was built from source using Qt and MingW (GCC) for compatibility reasons.
+
 
 
 
