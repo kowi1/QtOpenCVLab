@@ -14,8 +14,7 @@ This project combines the power of OpenCVs image processing library with the GUI
 It should be noted that Python is a better platform for quick prototyping of applications where performance and compatibility with legacy code is no a requirement.
 
 
-The application contains.
-
+Folder Structure:
 
 - src 
 
