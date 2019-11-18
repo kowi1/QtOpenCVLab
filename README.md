@@ -28,4 +28,7 @@ QtOpenCVLAb combines the power of OpenCV's image processing library with the GUI
 
 
 
-It should be noted that Python is a better platform for quick prototyping of applications where performance and compatibility with legacy code is no a requirement.
+  Build Requirements:
+   - QT IDE .
+   - OPENCV Library with the OPENCV_SDK_DIR environment variable appropriately set to the SDK Directory path.
+   - MinGW was used for this project. Complete Pre-compiled binary and SDK for OpenCV 2.4.13 built with MinGW Toolchain can downloaded at 
