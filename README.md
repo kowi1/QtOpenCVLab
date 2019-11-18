@@ -17,12 +17,12 @@ It should be noted that Python is a better platform for quick prototyping of app
 The application contains.
 
 
-src 
+- src 
 
- -lib
+  - lib
  
-  - pre-built OpenCV 2.4.13 libraries compiled with 32-bit MingW.
+    - pre-built OpenCV 2.4.13 libraries compiled with 32-bit MingW.
   
-  -pre-built Qt 5.10.1 libraries compiled with 32-bit MingW
+    - pre-built Qt 5.10.1 libraries compiled with 32-bit MingW
   
-build
+- build
