@@ -14,14 +14,14 @@ This project combines the power of OpenCVs image processing library with the GUI
 It should be noted that Python is a better platform for quick prototyping of applications where performance and compatibility with legacy code is no a requirement.
 
 
-Folder Structure:
+      Folder Structure:
 
-- src 
+      - src 
 
-  - lib
- 
-    - pre-built OpenCV 2.4.13 libraries compiled with 32-bit MingW.
-  
-    - pre-built Qt 5.10.1 libraries compiled with 32-bit MingW
-  
-- build
+        - lib
+
+          - pre-built OpenCV 2.4.13 libraries compiled with 32-bit MingW.
+
+          - pre-built Qt 5.10.1 libraries compiled with 32-bit MingW
+
+      - build
