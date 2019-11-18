@@ -13,7 +13,6 @@ QtOpenCVLAb combines the power of OpenCV's image processing library with the GUI
 
 
   Folder Structure:
-
    - src 
   
      - lib
