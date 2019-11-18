@@ -31,4 +31,5 @@ QtOpenCVLAb combines the power of OpenCV's image processing library with the GUI
    - OPENCV Library with the OPENCV_SDK_DIR environment variable appropriately set to the SDK Directory path.
    
    - MinGW was used for this project.
+     
      Complete Pre-compiled binaries and SDK for OpenCV 2.4.13 built with for the MinGW Compiler can downloaded at https://drive.google.com/open?id=1JXeEQ6K6JvjuNNBU_ZqynzNbwSsq9DCF.
