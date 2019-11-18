@@ -26,19 +26,10 @@ aboutdialog.ui \
 
 
 
-LIBS += C:\\Users\OLUKOWI\Desktop\QtOpenCVLab\build\lib\libopencv_core2413.dll
-LIBS += C:\\Users\OLUKOWI\Desktop\QtOpenCVLab\build\lib\libopencv_highgui2413.dll
-#LIBS +=lib\libopencv_imgcodecs2413.dll
-LIBS += C:\\Users\OLUKOWI\Desktop\QtOpenCVLab\build\lib\libopencv_imgproc2413.dll
-#LIBS += C:\\Users\OLUKOWI\Desktop\QtOpenCVLab\build\lib\libopencv_features2d2413.dll
-#LIBS += C:\\Users\OLUKOWI\Desktop\QtOpenCVLab\build\lib\libopencv_calib3d2413.dll
-LIBS += C:\\Users\OLUKOWI\Desktop\QtOpenCVLab\build\lib\libopencv_objdetect2413.dll
-#LIBS += C:\\Users\OLUKOWI\Desktop\QtOpenCVLab\build\lib\libopencv_contrib2413.dll
-#LIBS += C:\\Users\OLUKOWI\Desktop\QtOpenCVLab\build\lib\libopencv_legacy2413.dll
-#LIBS += C:\\Users\OLUKOWI\Desktop\QtOpenCVLab\build\lib\libopencv_flann2413.dll
-#LIBS += C:\\Users\OLUKOWI\Desktop\QtOpenCVLab\build\lib\libopencv_nonfree2413.dll
-#LIBS += C:\\Users\OLUKOWI\Desktop\QtOpenCVLab\build\lib\libopencv_video2413.dll
-#LIBS += C:\\Users\OLUKOWI\Desktop\QtOpenCVLab\build\lib\libopencv_ml2413.dll
+LIBS += -L"$$_PRO_FILE_PWD_/lib/" -lopencv_core2413
+LIBS += -L"$$_PRO_FILE_PWD_/lib/" -lopencv_highgui2413
+LIBS += -L"$$_PRO_FILE_PWD_/lib/" -lopencv_imgproc2413
+LIBS += -L"$$_PRO_FILE_PWD_/lib/" -lopencv_objdetect2413
 
 INCLUDEPATH += $$(OPENCV_SDK_DIR)/include
 
