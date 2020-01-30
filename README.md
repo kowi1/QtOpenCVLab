@@ -47,4 +47,4 @@ OpenCV 2.4.13.6 was built from source using Qt and MingW (GCC) for compatibility
      
      Download QtVisionLab.zip, extract file. Click on QT5.exe to run application.
      
-  <iframe src="https://drive.google.com/file/d/1II-5h8cdBtf6MAjJKeyVk5nxUEWvs6jy/preview" width="640" height="480"></iframe>
+  ![Image](https://drive.google.com/file/d/1II-5h8cdBtf6MAjJKeyVk5nxUEWvs6jy/preview)
