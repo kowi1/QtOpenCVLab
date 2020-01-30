@@ -14,7 +14,7 @@ OpenCV 2.4.13.6 was built from source using Qt and MingW (GCC) for compatibility
 
 
 
-  Folder Structure:
+ #### Folder Structure:
    - src 
   
      - lib
@@ -27,7 +27,7 @@ OpenCV 2.4.13.6 was built from source using Qt and MingW (GCC) for compatibility
 
 
 
-  Build Requirements:
+ #### Build Requirements:
    - QT IDE.
    
    - OPENCV Library with the OPENCV_SDK_DIR environment variable appropriately set to the SDK Directory path.
@@ -35,14 +35,14 @@ OpenCV 2.4.13.6 was built from source using Qt and MingW (GCC) for compatibility
    - MinGW was used for this project.
      
 ## Complete Pre-compiled binaries and SDK for OpenCV 2.4.13 built  for the MinGW Compiler can downloaded at 
+  
+  https://drive.google.com/open?id=1JXeEQ6K6JvjuNNBU_ZqynzNbwSsq9DCF.
      
      
-     https://drive.google.com/open?id=1JXeEQ6K6JvjuNNBU_ZqynzNbwSsq9DCF.
+## A working windows executable can be downloaded at 
      
-     
-# A working windows executable can be downloaded at 
-     
-     https://drive.google.com/open?id=1aEdoDZqURhH5mFhPERQWJ9h_4__yW80x
+  
+  https://drive.google.com/open?id=1aEdoDZqURhH5mFhPERQWJ9h_4__yW80x
      
      
      Download QtVisionLab.zip, extract file. Click on QT5.exe to run application.
