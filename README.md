@@ -34,7 +34,7 @@ OpenCV 2.4.13.6 was built from source using Qt and MingW (GCC) for compatibility
    
    - MinGW was used for this project.
      
-## MinGW OpenCV 2.4.13 binaries can downloaded at 
+## MinGW OpenCV 2.4.13 library binaries can downloaded at 
   
   https://drive.google.com/open?id=1JXeEQ6K6JvjuNNBU_ZqynzNbwSsq9DCF.
      
