@@ -35,3 +35,7 @@ OpenCV 2.4.13.6 was built from source using Qt and MingW (GCC) for compatibility
    - MinGW was used for this project.
      
      Complete Pre-compiled binaries and SDK for OpenCV 2.4.13 built  for the MinGW Compiler can downloaded at https://drive.google.com/open?id=1JXeEQ6K6JvjuNNBU_ZqynzNbwSsq9DCF.
+     
+     
+     A working windows executable can be downloaded at  https://drive.google.com/open?id=1aEdoDZqURhH5mFhPERQWJ9h_4__yW80x
+     Download QtVisionLab.zip, extract file. Click on QT5.exe to run application.
